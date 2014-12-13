@@ -12,8 +12,8 @@ git clone git@github.com:DanielCaldwell/BlueMarbleTileGenerator.git
 
 install virtual box and vagrant
 
-https://www.virtualbox.org/
-https://www.vagrantup.com/
+* https://www.virtualbox.org/
+* https://www.vagrantup.com/
 
 run vagrant to create a new virtual machine (vm is based off of ubuntu)
 
