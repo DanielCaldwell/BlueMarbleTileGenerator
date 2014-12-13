@@ -52,3 +52,18 @@ docs/_build/
 
 # PyBuilder
 target/
+
+
+# PyCharm 
+.idea
+
+# vagrant
+.vagrant
+
+# default output dir
+bm
+
+# downloaded files
+.png
+.v
+
